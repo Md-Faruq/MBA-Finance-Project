@@ -1,31 +1,27 @@
-## 📊 Equity Research Portfolio — Faruq Shaikh
+# Security Analysis — JK Cement Limited
+**Author:** Mohamed Faruq H Shaikh (MBA Finance) · **Email:** faruqxhasan@gmail.com
 
-I’m an MBA (Finance) candidate focused on **Equity Research & Investment Analysis**.  
-This portfolio demonstrates my skills in financial statement analysis, DCF & relative valuation, Excel modelling, and investment reporting.
+## TL;DR
+Comprehensive equity & security analysis of **JK Cement Limited** covering financial statements, ratio analysis, peer benchmarking, risk metrics (CAPM, beta, alpha), valuation indicators (P/E, P/B, EPS), and stock performance (FY 2024–25).
 
-### 🔎 Featured Reports
-- **HDFC Bank Ltd. — BUY** · *Target:* ₹1,820 · *Upside:* 15%  
-  ▶️ [Read report (PDF)](https://github.com/<your-username>/equity-research-portfolio/blob/main/HDFC_Bank/HDFC_Bank_Equity_Research_Report.pdf)
+## Key Metrics
+- **Beta:** 0.7430  · **ROE:** 16%  · **Debt/Equity:** 1.66  · **P/E:** 45.95
 
-- **ITC Limited — HOLD** · *Target:* ₹500 · *Upside:* 7%  
-  ▶️ [Read report (PDF)](https://github.com/<your-username>/equity-research-portfolio/blob/main/ITC_Limited/ITC_Equity_Research_Report.pdf)
 
-- **Reliance Industries Ltd. — BUY** · *Target:* ₹3,200 · *Upside:* 18%  
-  ▶️ [Read report (PDF)](https://github.com/<your-username>/equity-research-portfolio/blob/main/Reliance_Industries/Reliance_Equity_Research_Report.pdf)
+## Contents
+- `JK_Cement_Security_Analysis.pdf` — Full report (40+ pages)
+- `Data/` — Source spreadsheets (stock data, peer metrics)
+- `Models/` — Ratio and risk calculation workbooks
+- `Visuals/` — Charts (stock trends, peer comparisons)
 
-### 🧾 What you’ll find
-- Financial statement analysis & ratio trends  
-- Valuation methods: DCF, comparables, SoTP where applicable  
-- Investment thesis, key catalysts, and downside risks  
-- Supporting Excel models (in repo) and visual summaries
+## Highlights
+- Financial statement analysis & ratio trends
+- Risk assessment using CAPM and portfolio theory
+- Peer benchmarking vs UltraTech, Shree Cement, ACC
+- Actionable investment insights and recommendations
 
-### 🔗 Quick links
-- Portfolio repo: `github.com/<your-username>/equity-research-portfolio`  
-- Combined portfolio PDF: `https://github.com/<your-username>/equity-research-portfolio/raw/main/Portfolio_Combined.pdf` *(optional)*
+## Download
+[Download full report (PDF)](./JK_Cement_Security_Analysis.pdf)
 
-### 📩 Contact
-- Email: **faruqxhasan@gmail.com**  
-- LinkedIn: `https://www.linkedin.com/in/mohamed-faruq-b23471289/
-
-*Keywords:* Equity Research · Financial Modeling · DCF · Valuation · Investment Analysis · Financial Statements
-
+## Contact
+faruqxhasan@gmail.com · LinkedIn: https://www.linkedin.com/in/mohamed-faruq-b23471289/>
