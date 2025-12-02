@@ -3,8 +3,6 @@
 # Security Analysis — JK Cement Limited
 **Author:** Mohamed Faruq H Shaikh (MBA Finance) · **Email:** faruqxhasan@gmail.com
 
-# Summary — Security Analysis of JK Cement Limited
-
 This project presents a comprehensive security analysis of JK Cement Limited, evaluating its financial performance, risk profile, competitive position, and investment attractiveness. It includes detailed ratio analysis (profitability, liquidity, leverage), peer comparison against major cement companies, stock performance analysis using modern portfolio theory (beta, alpha, volatility), and valuation metrics such as P/E and P/B. The study concludes that JK Cement is fundamentally strong with consistent performance but operates at a higher leverage level than peers.
 
 ## Key Metrics
