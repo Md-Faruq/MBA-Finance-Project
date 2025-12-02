@@ -3,11 +3,15 @@
 # Security Analysis — JK Cement Limited
 **Author:** Mohamed Faruq H Shaikh (MBA Finance) · **Email:** faruqxhasan@gmail.com
 
-## TL;DR
-Comprehensive equity & security analysis of **JK Cement Limited** covering financial statements, ratio analysis, peer benchmarking, risk metrics (CAPM, beta, alpha), valuation indicators (P/E, P/B, EPS), and stock performance (FY 2024–25).
+# Summary — Security Analysis of JK Cement Limited
+
+This project presents a comprehensive security analysis of JK Cement Limited, evaluating its financial performance, risk profile, competitive position, and investment attractiveness. It includes detailed ratio analysis (profitability, liquidity, leverage), peer comparison against major cement companies, stock performance analysis using modern portfolio theory (beta, alpha, volatility), and valuation metrics such as P/E and P/B. The study concludes that JK Cement is fundamentally strong with consistent performance but operates at a higher leverage level than peers.
 
 ## Key Metrics
-- **Beta:** 0.7430  · **ROE:** 16%  · **Debt/Equity:** 1.66  · **P/E:** 45.95
+- **Beta:** 0.7430
+- **ROE:** 16%
+- **Debt-to-Equity:** 1.66
+- **P/E Ratio:** 45.95
 
 
 ## Contents
