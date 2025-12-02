@@ -1,4 +1,4 @@
-![Project Banner](./Visuals/banner.png)
+![Project Banner]("C:generated-image.png")
 
 # Security Analysis — JK Cement Limited
 **Author:** Mohamed Faruq H Shaikh (MBA Finance) · **Email:** faruqxhasan@gmail.com
